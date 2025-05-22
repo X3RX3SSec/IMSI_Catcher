@@ -22,8 +22,8 @@ This project allows you to passively capture IMSI numbers from GSM mobile device
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rtl-sdr-imsi-catcher.git
-   cd rtl-sdr-imsi-catcher
+   git clone https://github.com/X3RX3SSec/IMSI_Catcher.git
+   cd IMSI_Catcher
    ```
 
 2. Run the installation script to install dependencies and tools:
